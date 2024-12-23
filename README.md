@@ -2,7 +2,7 @@
 Simulador para curso Inteligencia en Robots MAIA
 Esta es una versión traducida al español y adaptada del simulador propuesto en https://github.com/paulodowd/GoogleColab_Simple2DSimulator desarrollado por: [Paul O'Dowd](https://www.bristol.ac.uk/people/person/Paul-O'Dowd-d54e9ad6-41de-4eef-81c6-1ee227ced8dc) y [Hemma Philamore](https://www.bristol.ac.uk/people/person/Hemma-Philamore-c3c8acb0-fcce-4792-9249-2efccb92145f).
 
-### Bienvenido a las hojas de ejercicios
+### Bienvenido al cuaderno de ejercicios
 
 Todas estas hojas de ejercicios están diseñadas para ser utilizadas de forma interactiva dentro de [Google Colab](https://research.google.com/colaboratory/). Puedes guardarlas en tu propio espacio de trabajo. Es posible que necesites una [cuenta de Google](https://www.google.com/account/about/) para hacerlo.
 
@@ -19,7 +19,7 @@ Estas hojas de ejercicios te desafiarán a avanzar a través de una serie de tar
 
 Estas hojas de ejercicios sirven como una breve introducción, por lo que tienes la libertad de ser creativo y explorar la naturaleza del espacio de problemas.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/TestSheet.ipynb) **Hoja de prueba:** Puedes verificar rápidamente si puedes acceder a Google Colab y a estas hojas de ejercicios haciendo clic en el botón a la izquierda.
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/TestSheet.ipynb) **Cuaderno de prueba:** Puedes verificar rápidamente si puedes acceder a Google Colab y a estos cuadernos de ejercicios haciendo clic en el botón a la izquierda.
 
 <br><br>
 ## Información: Primeros pasos
@@ -44,8 +44,9 @@ Si no puedes acceder a Google Colab, puedes instalar Jupyter/Anaconda en tu comp
 Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [disponible aquí](https://github.com/paulodowd/GoogleColab_Simple2DSimulator/raw/main/anaconda_instructions.pdf).
 
 <br><br>
+## Tutorial Simulador
 
-## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Día 1: Evitación de obstáculos
+## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Ejercicio 1: Evitación de obstáculos
 
 <table>
   <tr>
@@ -53,14 +54,14 @@ Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [di
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/obs_avoidance.png?raw=true" width="350px">
     </td>
     <td>
-      En esta hoja de ejercicios, desarrollaremos un controlador para que el robot simulado tome decisiones y se desplace evitando obstáculos.
+      En este ejercicio encuentras un controlador para que el robot simulado tome decisiones y se desplace evitando obstáculos.
     </td>
   </tr>
 </table>
 
 <hr><br><br>
 
-## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb) Día 2: Circunnavegación
+## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet2_Circumnavigation.ipynb)  Ejercicio 2: Navegación entre obstáculos
 
 <table>
   <tr>
@@ -68,14 +69,14 @@ Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [di
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/c_navigation.png?raw=true" width="350px">
     </td>
     <td>
-      En esta hoja, escribiremos comportamientos para que el robot simulado detecte obstáculos y navegue a su alrededor.
+      En esta ejercicio encuentras comportamientos para que el robot simulado detecte obstáculos y navegue a su alrededor.
     </td>
   </tr>
 </table>
 
 <hr><br><br>
 
-## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Día 3: Mapeo
+## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet3_Mapping.ipynb) Ejercicio 3: Generación de mapas
 
 <table>
   <tr>
@@ -90,7 +91,7 @@ Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [di
 
 <hr><br><br>
 
-## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb) Día 4: Ruido de Sensores
+## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb) Ejercicio 4: Ruido de Sensores
 
 <table>
   <tr>
@@ -98,13 +99,13 @@ Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [di
 <img src="https://github.com/paulodowd/GoogleColab_Simple2DSimulator/blob/main/img/Following.png?raw=true" width="350px">
     </td>
     <td>
-      En esta hoja exploraremos los desafíos del ruido en sensores reales, como el Pololu SDS02A, escribiendo un controlador para seguir otro robot.
+      En esta ejercicio encuentras como tratar los desafíos del ruido en sensores reales utilizando un controlador para seguir otro robot.
     </td>
   </tr>
 </table>
 
 <hr><br><br>
 
-## Día 5: ¡Explora!
+## Ejercicio 5: ¡Explora!
 
-Este día está libre para que explores cualquier hoja anterior y la lleves más allá si lo deseas. Habrá soporte disponible durante la sesión para cualquier pregunta relacionada.
+Ahora puedes explorar los ejercicios anteriores y exteiendas la funcionalidad del simulador. Habrá soporte disponible durante la semana para cualquier pregunta relacionada.
