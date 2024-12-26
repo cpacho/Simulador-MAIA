@@ -4,20 +4,20 @@ Esta es una versión traducida al español y adaptada del simulador propuesto en
 
 ### Bienvenido al cuaderno de ejercicios
 
-Todas estas hojas de ejercicios están diseñadas para ser utilizadas de forma interactiva dentro de [Google Colab](https://research.google.com/colaboratory/). Puedes guardarlas en tu propio espacio de trabajo. Es posible que necesites una [cuenta de Google](https://www.google.com/account/about/) para hacerlo.
+Este cuaderno de ejercicios está diseñado para utiliarse de forma interactiva dentro de [Google Colab](https://research.google.com/colaboratory/). Puedes guardarlo en tu propio espacio de trabajo. Es posible que necesites una [cuenta de Google](https://www.google.com/account/about/) para poder hacerlo.
 
-Estas hojas de ejercicios están diseñadas para proporcionar una introducción rápida al marco de pensamiento necesario al trabajar en robótica. Esto incluye:
-- Desarrollar software de control que funcione de manera iterativa y sin interrupciones.
-- Anticipar que, aunque es posible una muy buena solución para una tarea, esta puede volverse más compleja fácilmente.
-- Comprender que la complejidad de una tarea, y por lo tanto las soluciones adecuadas, puede aumentar rápidamente.
+Los ejercicios proporcionan una introducción rápida al marco de pensamiento necesario al trabajar en robótica. Esto incluye:
+- Desarrollar software de control que funcione de manera iterativa.
+- Anticipar que una muy buena solución para una tarea puede volverse fácilmente más compleja.
+- Comprender que la complejidad de una tarea y sus posibles soluciones adecuadas pueden aumentar rápidamente.
 
-Estas hojas de ejercicios te desafiarán a avanzar a través de una serie de tareas que se construyen sobre la anterior, con una complejidad creciente. Estas son:
+Los ejercicios te desafiarán a avanzar a través de una serie de tareas que se construyen sobre la anterior, con una complejidad creciente. Estas son:
 1. Comportamiento de evitación de obstáculos.
-2. Comportamiento de circunnavegación.
-3. Navegación para mapeo (cobertura).
-4. Seguimiento de otro robot con sensores ruidosos.
+2. Comportamiento de navegación entre obstáculos.
+3. Generación de mápas.
+4. Manejo de señales con ruido.
 
-Estas hojas de ejercicios sirven como una breve introducción, por lo que tienes la libertad de ser creativo y explorar la naturaleza del espacio de problemas.
+Una vez superes estos ejercicios te invitamos a ser creativo y explorar la socución de nu3vos problemas que imagines.
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/TestSheet.ipynb) **Cuaderno de prueba:** Puedes verificar rápidamente si puedes acceder a Google Colab y a estos cuadernos de ejercicios haciendo clic en el botón a la izquierda.
 
@@ -44,7 +44,7 @@ Si no puedes acceder a Google Colab, puedes instalar Jupyter/Anaconda en tu comp
 Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [disponible aquí](https://github.com/paulodowd/GoogleColab_Simple2DSimulator/raw/main/anaconda_instructions.pdf).
 
 <br><br>
-## Tutorial Simulador
+## Tutorial del Simulador
 
 ## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet1_ObstacleAvoidance.ipynb) Ejercicio 1: Evitación de obstáculos
 
@@ -91,7 +91,7 @@ Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [di
 
 <hr><br><br>
 
-## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb) Ejercicio 4: Ruido de Sensores
+## [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/GoogleColab_Simple2DSimulator/blob/main/Sheet4_SensorNoise.ipynb) Ejercicio 4: Manejo de Señales con Ruido
 
 <table>
   <tr>
@@ -108,4 +108,4 @@ Un breve tutorial sobre cómo ejecutar estas hojas en Anaconda/Jupyter está [di
 
 ## Ejercicio 5: ¡Explora!
 
-Ahora puedes explorar los ejercicios anteriores y exteiendas la funcionalidad del simulador. Habrá soporte disponible durante la semana para cualquier pregunta relacionada.
+Ahora puedes explorar los ejercicios anteriores y extender la funcionalidad del simulador. Habrá soporte disponible durante la semana para cualquier pregunta relacionada.
