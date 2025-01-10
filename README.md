@@ -4,8 +4,6 @@ Esta es una versión traducida al español y adaptada del simulador propuesto en
 
 ### Bienvenido al cuaderno de ejercicios
 
-Este cuaderno de ejercicios está diseñado para utiliarse de forma interactiva dentro de [Google Colab](https://research.google.com/colaboratory/). Puedes guardarlo en tu propio espacio de trabajo. Es posible que necesites una [cuenta de Google](https://www.google.com/account/about/) para poder hacerlo.
-
 Los ejercicios proporcionan una introducción rápida al marco de pensamiento necesario al trabajar en robótica. Esto incluye:
 - Desarrollar software de control que funcione de manera iterativa.
 - Anticipar que una muy buena solución para una tarea puede volverse fácilmente más compleja.
